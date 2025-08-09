@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SCAMIFY/static/css/main.e6e27c34.css",
+    "main.js": "/SCAMIFY/static/js/main.f4f040f4.js",
+    "static/media/user.jpg": "/SCAMIFY/static/media/user.6ba7eea037af5224699b.jpg",
+    "index.html": "/SCAMIFY/index.html",
+    "main.e6e27c34.css.map": "/SCAMIFY/static/css/main.e6e27c34.css.map",
+    "main.f4f040f4.js.map": "/SCAMIFY/static/js/main.f4f040f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e27c34.css",
+    "static/js/main.f4f040f4.js"
+  ]
+}
