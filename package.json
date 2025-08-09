@@ -35,13 +35,11 @@
     "yup": "^1.6.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -63,5 +61,14 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://mridulashrivastava.github.io/SCAMIFY"
+ 
+  "overrides": {
+    "react-slidedown": "^2.4.7"
+  },
+
+"engines": {
+  "node": "18.x"
+}
+
+ 
 }
